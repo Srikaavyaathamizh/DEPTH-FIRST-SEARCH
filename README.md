@@ -70,7 +70,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 <hr>
 ## Program
-<B><ol>
+<ol>
 ```
 from collections import deque
 from collections import defaultdict
@@ -117,7 +117,7 @@ visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 ```
-</ol></B>
+</ol>
 
 
       
